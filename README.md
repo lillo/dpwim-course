@@ -6,7 +6,7 @@
 
 **Office hours**: contact me by e-mail
 
-**Note that this page contains only the programming exercises,  all the material of the course is available on the Moodle page at** TBA
+**Note that this page contains only the programming exercises,  all the material of the course is available on the Moodle page at** <https://e-l.unifi.it/course/view.php?id=37975>
 
 ## Course description
 
