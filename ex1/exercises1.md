@@ -1,4 +1,4 @@
-# Exercises on Go Programming 
+# Exercises on Go Programming (part 1)
 
 ## Exercise 1
 The *series expansion* of $e^x$ is given by:
