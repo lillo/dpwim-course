@@ -3,7 +3,7 @@
 # Exercise 1
 
 Write a TCP server that listens on port 8888 and works as a database to store
-clinical records.  A clinical record is an instance of the struct `PatientRecord``
+clinical records.  A clinical record is an instance of the struct `PatientRecord`
 ```go
 type PatientRecord struct {
     RecordID string
