@@ -28,6 +28,7 @@ Remember to set up a Go programming environnement as described [here](https://go
 | 10/17 | Networking programming in Go   |  [Exercises 3](ex3/exercises3.md)  |
 | 10/31 | Networking and Web programming in Go | [Exercises 4](ex4/exercises4.md) |
 | 11/07 | Web programming in Go | [Exercises 5](ex5/exercises5.md) |
+| 11/14 | Accessing database in Go | [Exercises 6](ex6/exercises6.md)
 | ...   | ...  | ... |
 
 ## Online resources
