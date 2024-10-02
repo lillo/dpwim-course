@@ -1,5 +1,7 @@
 # Exercises on Go Programming (part 1)
 
+You may have a look to the [standard library documentation](https://pkg.go.dev/std) to find useful functions and methods for solving the following exercises. 
+
 ## Exercise 1
 The *series expansion* of $e^x$ is given by:
 
@@ -43,4 +45,5 @@ Write a function `swap_adjacent` that given a string of length `l` with `l` even
 Write a function `mingle_string` that given two string `p` and `q` of the same lenght and mingles them together.
 For example, `mingle_string "abcde" "pqrst"` returns `"apbqcrdset"`.
 
-
+## Exercise 7
+Write a function `anagrams` that given a slice of strings (`[]string`) returns a slice of slices of string (`[][]string`), where each row contains words that are one the anagram of the others.

@@ -6,11 +6,11 @@
 
 **Office hours**: contact me by e-mail
 
-**Note that this page contains only the programming exercises,  all the material of the course is available on the Moodle page at** <https://e-l.unifi.it/course/view.php?id=37975>
+**Note that this page contains only the programming exercises,  all the material of the course is available on the Moodle page at** <https://e-l.unifi.it/course/view.php?id=42198>
 
 ## Course description
 
-The course aims at providing general knowledge about distributed programming, methodologies and tools. The course starts by reviewing the basic concepts relevant to the course, then presents how distributed systems are organized and basic communication mechanisms. The course then presents the basic techniques for developing modern distributed systems using the web, IoT, and mobile technologies.
+The course aims at providing general knowledge about distributed programming, methodologies and tools. The course starts by reviewing the basic concepts of distributed systems, then presents how distributed systems are organized and basic communication mechanisms. The course then presents the basic techniques for developing modern distributed systems using the web, IoT, and mobile technologies.
 
 ## Learning objectives
 
@@ -23,13 +23,7 @@ Remember to set up a Go programming environnement as described [here](https://go
 
 | Date  | Topics | Assignments|
 | ------|------- |------------|
-| 09/26 | Basic Go programming  (part 1) |  [Exercises 1](ex1/exercises1.md)  |
-| 10/10 | Basic Go programming  (part 2) |  [Exercises 2](ex2/exercises2.md)  |
-| 10/17 | Networking programming in Go   |  [Exercises 3](ex3/exercises3.md)  |
-| 10/31 | Networking and Web programming in Go | [Exercises 4](ex4/exercises4.md) |
-| 11/07 | Web programming in Go | [Exercises 5](ex5/exercises5.md) |
-| 11/14 | Accessing database in Go | [Exercises 6](ex6/exercises6.md)|
-| 11/28 | Web templates in Go      | [Exercises 7](ex7/exercises7.md) |
+| 10/02 | Basic Go programming  (part 1) |  [Exercises 1](ex1/exercises1.md)  |
 | ...   | ...  | ... |
 
 ## Online resources
