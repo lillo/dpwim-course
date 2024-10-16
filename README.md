@@ -25,6 +25,7 @@ Remember to set up a Go programming environnement as described [here](https://go
 | ------|------- |------------|
 | 10/02 | Basic Go programming  (part 1) |  [Exercises 1](ex1/exercises1.md)  |
 | 10/09 | Basic Go programming (part 2)  |  [Exercises 2](ex2/exercises2.md)  |
+| 10/16 | Basic Go programming (part 3)  |  [Exercises 3](ex2/exercises3.md)  |
 | ...   | ...  | ... |
 
 ## Online resources
