@@ -55,9 +55,3 @@ func Singleton(n int) Heap {
 	//...
 }
 ```
-
-## Exercise 4
-Generalize the interface and the implementation of the previous exercise using generics.
-
-## Exercise 5
-Complete the exercise [`Web Crawler`](https://go.dev/tour/concurrency/10) from the "A Tour of Go".  
