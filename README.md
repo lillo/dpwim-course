@@ -27,6 +27,7 @@ Remember to set up a Go programming environnement as described [here](https://go
 | 10/09 | Basic Go programming (part 2)  |  [Exercises 2](ex2/exercises2.md)  |
 | 10/16 | Basic Go programming (part 3)  |  [Exercises 3](ex3/exercises3.md)  |
 | 10/30 | Data serialization and network programming in Go | [Exercises 4](ex4/exercises4.md) |
+| 10/31 | Network programming in Go | [Exercises 5](ex5/exercises5.md) |
 | ...   | ...  | ... |
 
 ## Online resources
